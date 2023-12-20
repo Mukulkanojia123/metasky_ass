@@ -1,0 +1,1 @@
+export const frontPageApi = "https://randomuser.me/api/?results=50";
